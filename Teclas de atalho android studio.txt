@@ -1,0 +1,30 @@
+Teclas de Atalho:
+
+SHIFT + SHIFT: tecla mestre [FAZ TUDO]
+
+ALT + 1: Explorador de projeto
+ALT + 7: Estrutura da classe
+
+CTRL + CLICK: Abre o layout
+CTRL + E: abrir arquivos recentes
+
+ALT + Enter: Importa a classe
+CTRL + ALT + L: identar codigo
+CTRL + F: pesquisar arquivos
+CTRL + R: Replace em arquivo
+
+
+CTRL+ALT+O: remove os pacotes importados não utilizados
+
+CTRL+SHIFT+ + = expande todo codigo
+
+CTRL+SHIFT+ - = encolhe o codigo
+
+SHIFT+F10: RODA O APP
+
+CTR+F9: IGUAL AO F5
+
+SHIFT+F9: Inicia modo debug
+
+CTRL+F4: fecha janela
+

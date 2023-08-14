@@ -1,0 +1,2 @@
+rootProject.name = "CriandoFrameLayout"
+include ':app'
